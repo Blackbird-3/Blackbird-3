@@ -91,6 +91,9 @@
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
       <img  alt="Canva" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
   </a>
+    <a href="https://https://www.postman.com/" target="_blank" rel="noreferrer">
+      <img  alt="Postman" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postman.svg"/> 
+  </a>
 </div>
 <br>
 <br>
