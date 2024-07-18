@@ -1,7 +1,7 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Shreshtth Kumar Agarwaal </h1>
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I am a third-year Computer Science student seeking opportunities to learn, grow, utilize my skills, and gain real-world experience.
+    I am a fourth-year Computer Science student seeking opportunities to learn, grow, utilize my skills, and gain real-world experience.
 <br>
 <br>
 <div align="center">
